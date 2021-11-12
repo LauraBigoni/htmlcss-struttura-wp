@@ -1,0 +1,41 @@
+/*Generics*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Utilities */
+.container {
+    width: 1080px;
+    margin: 0 auto;
+}
+
+/* Header */
+header {
+    background-color: #582630;
+    height: 150px;
+}
+
+/* Main */
+.upper-section {
+    height: 300px;
+    margin:30px 0 30px 0;
+    background-color:#B49286;
+}
+
+.lower-section {
+    height: 450px;
+    margin-bottom: 10px;
+    background-color: #744253;
+}
+
+#sidebar {
+    background-color: #F3D9DC;
+}
+
+/* Footer */
+footer {
+    background-color: #C78283;
+    height: 50px;
+}
