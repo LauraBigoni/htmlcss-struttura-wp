@@ -11,6 +11,12 @@
     margin: 0 auto;
 }
 
+.clearfix::after {
+    display: table;
+    content: '';
+    clear: both;
+}
+
 /* Header */
 header {
     background-color: #582630;
